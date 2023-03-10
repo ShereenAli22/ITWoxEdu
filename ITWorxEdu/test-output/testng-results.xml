@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T21:13:37 EET" name="Default suite" finished-at="2023-03-10T21:14:09 EET" duration-ms="32258">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T21:13:37 EET" name="Default test" finished-at="2023-03-10T21:14:09 EET" duration-ms="32258">
+      <class name="Tests.AddCourses">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:Tests.AddCourses@5b8dfcc1]" started-at="2023-03-10T21:13:27 EET" name="startDriver" finished-at="2023-03-10T21:13:37 EET" duration-ms="9136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="CourseAddedSuccesfully()[pri:1, instance:Tests.AddCourses@5b8dfcc1]" started-at="2023-03-10T21:13:37 EET" name="CourseAddedSuccesfully" finished-at="2023-03-10T21:14:09 EET" duration-ms="32215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CourseAddedSuccesfully -->
+        <test-method is-config="true" signature="StopDriver()[pri:0, instance:Tests.AddCourses@5b8dfcc1]" started-at="2023-03-10T21:14:09 EET" name="StopDriver" finished-at="2023-03-10T21:14:09 EET" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StopDriver -->
+      </class> <!-- Tests.AddCourses -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
